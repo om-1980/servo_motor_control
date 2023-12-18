@@ -9,4 +9,3 @@ Four-switch motor control, also known as four-quadrant motor control, is a metho
 
 # Circuit Diagram
 ![Server_Motor_control](https://github.com/om-1980/servo_motor_control/assets/111452597/f91d7839-260e-4157-bbc5-2f239f400405)
-
